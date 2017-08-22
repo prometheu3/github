@@ -1,3 +1,4 @@
 initial info
 lisi:welcome to the git world
 zhangsan:hello
+lisi:add one line
